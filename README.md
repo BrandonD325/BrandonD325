@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonD325
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently studying Computer Science at the University of Missouri
 
 
 <!---
